@@ -1,0 +1,22 @@
+name: Build & Publish
+
+on:
+    push:
+      branches:
+        - main
+
+jobs:
+  publish-dockerhub:
+    name: Build & Publish 
+    runs-on: ubuntu-latest
+    permissions:
+        contents: write
+    steps:
+    - name: checkout
+      uses: actions/checkout@v4
+    - name: build_publish/skin
+      uses: steilerDev/delta-skin-generator/gh-actions/build-publish@main
+      with:
+        gh-token: ${{ secrets.GITHUB_TOKEN }}
+
+      
