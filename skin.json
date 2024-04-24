@@ -1,0 +1,7 @@
+{
+    "skinName": "PokeMaxDS",
+    "skinId": "dev.steiler.delta-skin.pokemaxds",
+    "author": "steilerDev",
+    "system": "com.rileytestut.delta.game.ds",
+    "version": "0.0.0-development"
+}
