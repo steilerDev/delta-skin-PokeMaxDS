@@ -20,13 +20,13 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="0.48277427"
-     inkscape:cx="1011.8601"
-     inkscape:cy="665.9427"
-     inkscape:window-width="1696"
-     inkscape:window-height="1278"
-     inkscape:window-x="756"
-     inkscape:window-y="95"
+     inkscape:zoom="0.55692364"
+     inkscape:cx="2153.7962"
+     inkscape:cy="920.23388"
+     inkscape:window-width="1512"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -54,72 +54,68 @@
       <desc
          id="desc1-2">@element/touchScreen@component/clear</desc>
     </rect>
-    <g
-       id="g12"
-       inkscape:label="dpad">
-      <rect
-         style="fill:#000000;stroke:#ffffff;stroke-width:0.438933;stroke-dasharray:5.26719, 5.26719"
-         id="rect2"
-         width="439.35153"
-         height="439.3515"
-         x="1802.9832"
-         y="53.516376"
-         inkscape:label="dpad">
-        <desc
-           id="desc2">@element/dpad@component/dpad</desc>
-      </rect>
-      <rect
-         style="fill:none;stroke:#ff00ff;stroke-width:4.35641;stroke-dasharray:52.2767, 52.2767;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3"
-         width="440.22482"
-         height="75.643593"
-         x="1802.5465"
-         y="53.079735"
-         inkscape:label="top-ext-b">
-        <desc
-           id="desc3">@element/b@component/clear</desc>
-      </rect>
-      <rect
-         style="fill:none;stroke:#ff00ff;stroke-width:4.35641;stroke-dasharray:52.2767, 52.2767;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3-4"
-         width="440.22482"
-         height="75.643593"
-         x="1804.9419"
-         y="415.26553"
-         inkscape:label="bottom-ext-b">
-        <desc
-           id="desc3-4">@element/b@component/clear</desc>
-      </rect>
-      <rect
-         style="fill:none;stroke:#ff00ff;stroke-width:4.35642;stroke-dasharray:52.2766, 52.2766;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3-5"
-         width="75.643578"
-         height="440.22461"
-         x="1804.9419"
-         y="53.079815"
-         inkscape:label="left-ext-b">
-        <desc
-           id="desc3-5">@element/b@component/clear</desc>
-      </rect>
-      <rect
-         style="fill:none;stroke:#ff00ff;stroke-width:4.35642;stroke-dasharray:52.2766, 52.2766;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4"
-         width="75.643578"
-         height="440.22461"
-         x="2164.7324"
-         y="53.079815"
-         inkscape:label="right-ext-b">
-        <desc
-           id="desc4">@element/b@component/clear</desc>
-      </rect>
-    </g>
     <rect
-       style="fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:6.26908;stroke-linejoin:round;stroke-dasharray:75.2287, 75.2287;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#000000;stroke:#ffffff;stroke-width:1;stroke-dasharray:none"
+       id="rect2"
+       width="506.15363"
+       height="506.15356"
+       x="1769.3629"
+       y="5.5"
+       inkscape:label="dpad">
+      <desc
+         id="desc2">@element/dpad@component/dpad</desc>
+    </rect>
+    <rect
+       style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3"
+       width="507.1597"
+       height="87.144974"
+       x="1768.86"
+       y="7.7565575"
+       inkscape:label="top-ext-b">
+      <desc
+         id="desc3">@element/b@component/clear</desc>
+    </rect>
+    <rect
+       style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3-4"
+       width="507.1597"
+       height="87.144974"
+       x="1771.6195"
+       y="425.01163"
+       inkscape:label="bottom-ext-b">
+      <desc
+         id="desc3-4">@element/b@component/clear</desc>
+    </rect>
+    <rect
+       style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3-5"
+       width="87.144958"
+       height="507.15945"
+       x="1771.6195"
+       y="7.7566481"
+       inkscape:label="left-ext-b">
+      <desc
+         id="desc3-5">@element/b@component/clear</desc>
+    </rect>
+    <rect
+       style="fill:none;stroke:#ff00ff;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4"
+       width="87.144958"
+       height="507.15945"
+       x="2186.1152"
+       y="7.7566481"
+       inkscape:label="right-ext-b">
+      <desc
+         id="desc4">@element/b@component/clear</desc>
+    </rect>
+    <rect
+       style="fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:7.1358;stroke-linejoin:round;stroke-dasharray:85.6293, 85.6293;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5"
-       width="213.62614"
-       height="213.62614"
-       x="2312.3804"
-       y="276.32666"
+       width="243.16071"
+       height="243.16071"
+       x="2312.8137"
+       y="234.40546"
        inkscape:label="A Button">
       <desc
          id="desc7">@element/a@component/a</desc>
@@ -129,8 +125,8 @@
        id="rect5-4"
        width="146.98943"
        height="146.98943"
-       x="2421.3503"
-       y="53.058319"
+       x="2410.3962"
+       y="30.85939"
        inkscape:label="Y Button">
       <desc
          id="desc8">@element/y@component/y</desc>
@@ -140,19 +136,19 @@
        id="rect5-4-3"
        width="146.98943"
        height="146.98943"
-       x="2610.2542"
+       x="2617.0845"
        y="232.99434"
        inkscape:label="B Button">
       <desc
          id="desc9">@element/b@component/b</desc>
     </rect>
     <rect
-       style="fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:4.63766;stroke-linejoin:round;stroke-dasharray:55.6517, 55.6517;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:4.10868;stroke-linejoin:round;stroke-dasharray:49.304, 49.304;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6"
-       width="843.73944"
-       height="599.99243"
-       x="1855.3829"
-       y="577.10986"
+       width="736.53369"
+       height="539.47174"
+       x="1908.9858"
+       y="607.37018"
        inkscape:label="AltToggle">
       <desc
          id="desc6">@element/toggleAltRepresentations@component/clear</desc>
@@ -174,7 +170,7 @@
        width="127.4877"
        height="57.487698"
        x="24.988787"
-       y="1146.1042"
+       y="1100.1042"
        inkscape:label="Menu">
       <desc
          id="desc11">@element/menu@component/menu</desc>

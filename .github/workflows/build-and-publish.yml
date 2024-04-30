@@ -18,5 +18,3 @@ jobs:
       uses: steilerDev/delta-skin-generator/gh-actions/build-publish@main
       with:
         gh-token: ${{ secrets.GITHUB_TOKEN }}
-
-      

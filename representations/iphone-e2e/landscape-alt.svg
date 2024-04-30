@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2796"
+   height="1290"
+   viewBox="0 0 2796 1290"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="landscape-alt.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.38161013"
+     inkscape:cx="1738.6855"
+     inkscape:cy="703.59767"
+     inkscape:window-width="1512"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       id="screen"
+       width="1282.8302"
+       height="961.83032"
+       x="62.214748"
+       y="270.03387"
+       style="fill:none;stroke:#000000;stroke-width:1.16978">
+      <desc
+         id="desc1">@element/screen@component/clear</desc>
+    </rect>
+    <rect
+       id="screen-0"
+       width="1282.8302"
+       height="961.8302"
+       x="1402.6119"
+       y="270.03387"
+       style="fill:none;stroke:#000000;stroke-width:1.16978"
+       inkscape:label="screen-top">
+      <desc
+         id="desc1-2">@element/touchScreen@element/touchScreenControls@component/clear</desc>
+    </rect>
+    <rect
+       style="fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:4.31356;stroke-linejoin:round;stroke-dasharray:51.7625, 51.7625;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5"
+       width="146.98943"
+       height="146.98943"
+       x="2317.1035"
+       y="62.751797"
+       inkscape:label="A Button">
+      <desc
+         id="desc7">@element/a@component/a</desc>
+    </rect>
+    <rect
+       style="fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:4.31356;stroke-linejoin:round;stroke-dasharray:51.7625, 51.7625;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5-4-3"
+       width="146.98943"
+       height="146.98943"
+       x="2536.8809"
+       y="62.751778"
+       inkscape:label="B Button">
+      <desc
+         id="desc9">@element/b@component/b</desc>
+    </rect>
+    <rect
+       style="fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:6.76975;stroke-linejoin:round;stroke-dasharray:81.2367, 81.2367;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6"
+       width="1231.6351"
+       height="875.82941"
+       x="87.812286"
+       y="313.03433"
+       inkscape:label="AltToggle">
+      <desc
+         id="desc6">@element/toggleAltRepresentations@component/clear</desc>
+    </rect>
+    <rect
+       style="fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:2.5123;stroke-linejoin:round;stroke-dasharray:30.1475, 30.1475;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11"
+       width="127.4877"
+       height="57.487698"
+       x="62.886009"
+       y="107.50266"
+       inkscape:label="Menu">
+      <desc
+         id="desc11">@element/menu@component/menu</desc>
+    </rect>
+    <rect
+       style="display:none;fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:6.95333;stroke-linejoin:round;stroke-dasharray:83.4395, 83.4395;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12"
+       width="173.04668"
+       height="1289.1346"
+       x="0.43266341"
+       y="0.43266341"
+       inkscape:label="Notch_Safe_Area"
+       sodipodi:insensitive="true">
+      <desc
+         id="desc12">@component/clear</desc>
+    </rect>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:0.546358;stroke:#ff00ff;stroke-width:5.20397;stroke-linejoin:round;stroke-dasharray:62.4473, 62.4473;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12-7"
+       width="96.796036"
+       height="1290.884"
+       x="2696.6021"
+       y="-0.4420166"
+       inkscape:label="Bottom_Safe_Area">
+      <desc
+         id="desc12-0">@component/clear</desc>
+    </rect>
+    <rect
+       id="rect2"
+       width="1282.8302"
+       height="961.8302"
+       x="1402.6119"
+       y="270.03387"
+       style="fill:none;stroke:#000000;stroke-width:1.16978"
+       inkscape:label="screen-top">
+      <desc
+         id="desc2">@element/touchScreenControls
+@component/clear</desc>
+    </rect>
+  </g>
+</svg>
